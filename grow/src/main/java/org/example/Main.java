@@ -39,7 +39,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("Stock Market Value Getter");
+        primaryStage.setTitle("Stocker");
 
         Label symbolLabel = new Label("Enter Stock Symbol:");
         TextField symbolField = new TextField();
